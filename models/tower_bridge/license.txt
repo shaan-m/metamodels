@@ -1,0 +1,8 @@
+Model Information:
+* title:	TOWER BRIDGE
+* source:	https://sketchfab.com/3d-models/tower-bridge-c20bb305fad4461182f1ddaab40c1508
+* author:	PeeJaa (https://sketchfab.com/PeeJaa)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
